@@ -1,1 +1,3 @@
-NestJs Startkit
+# NestJs Startkit
+
+## NestJs + Prisma + Passport + Graphql
